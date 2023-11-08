@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Data analysis related to CX, Marketing and Fintechs**
 
-- 📝 I regularly write articles on [Data analysis from the view of a CRS](Data analysis from the view of a CRS)
+- 📝 I regularly write articles on **Data analysis from the view of a CRS**
 
 - 💬 Ask me about **SQL and CX Market**
 
