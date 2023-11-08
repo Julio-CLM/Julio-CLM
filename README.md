@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Julio Cesar</h1>
 <h3 align="center">A passionate Data Analyst from Brazil</h3>
 
-- 🔭 I’m currently working on **my development as Data Analyst**
+- 🔭 I’m currently working on **my development as Data Analyst, upgrade from Senior CX Agent**
 
 - 🌱 I’m currently learning **Power BI, Phyton**
 
