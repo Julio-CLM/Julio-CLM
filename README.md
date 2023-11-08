@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/juliocesar-lm/](https://www.linkedin.com/in/juliocesar-lm/)
 
-- ⚡ Fun fact **I love making ☕Expressos and Latte Art🧋 at Home**
+- ⚡ Fun fact **I love making ☕Espressos and Latte Art🧋 at Home**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
